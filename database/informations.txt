@@ -9,6 +9,7 @@
     (SELECT *) seleciona todas as informações 
     (SELECT * FROM aluno) seleciona todas as informações da tabela aluno (respeitado a forma que a tabela está cadastrada)
 - SELECT especificando campos
+    (SELECT nome, responsavel FROM aluno) seleciona somente os campos que deseja buscar 
 - SEECT com WHERE
 * OPERADORES RELACIONAIS 
 - Equal (=)
