@@ -38,5 +38,8 @@
 - IS NULL e IS NOT NULL
 * MAIS COMANDOS
 - INSERT INTO
+(INSERT INTO aluno (nome, cpf responsavel) VALUES ("Maria Luiza", 463571162638, "Wantuil Soares"))
+Insere informações na tabela que a gente escolher
 - UPDATE
+
 - DELETE
