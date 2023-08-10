@@ -44,3 +44,5 @@ Insere informações na tabela que a gente escolher
 (UPDATE aluno SET nome="Mariano Soares", responsavel="Marcio Soares" cpf=12345612312 WHERE matricula = 2)
 Altera algum dado já inserido na tabela
 - DELETE
+(DELETE FROM aluno WHERE matricula = 3)
+Permite que apague um registro do banco de dados
