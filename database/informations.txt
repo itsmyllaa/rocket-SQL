@@ -13,6 +13,7 @@
 - SELECT com WHERE
     (SELECT * FROM aluno WHERE matricula = 1) seleciona somente as informações especificas da tabela que deseja buscar 
     (SELECT * FROM aluno WHERE nome like "j%") selecionando somente os nomes que iniciam com J, o % representa que o restante não importa.
+    (SELECT * FROM aluno WHERE nome like "%g%") seleciona todos os nomes que possuem G, sem importância de como inicia ou termina.
 * OPERADORES RELACIONAIS 
 - Equal (=)
 - Like
