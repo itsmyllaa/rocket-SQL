@@ -1,0 +1,37 @@
+* TIPOS DE CAMPOS
+- Text
+- Number 
+- Datatime
+- Primary Key
+- Nomes de campos e tabelas
+* COMANDO SELECT 
+- SELECT 
+    (SELECT *) seleciona todas as informações 
+    (SELECT * FROM aluno) seleciona todas as informações da tabela aluno (respeitado a forma que a tabela está cadastrada)
+- SELECT especificando campos
+- SEECT com WHERE
+* OPERADORES RELACIONAIS 
+- Equal (=)
+- Like
+- Maior que (>)
+- Menor que (<)
+- Maior ou igual (>=)
+- Menor ou igual (<=)
+- Não igual a (<>)
+- Diferente de (!=)
+* OPERADORES MATEMÁTICOS
+- Adição (+)
+- Subtração (-)
+- Multiplicação (*)
+- Divisão (/)
+- Módulo (%)
+* OPERADORES LÓGICOS
+- AND
+- OR
+- BETWEEN
+- IN e NOT IN
+- IS NULL e IS NOT NULL
+* MAIS COMANDOS
+- INSERT INTO
+- UPDATE
+- DELETE
